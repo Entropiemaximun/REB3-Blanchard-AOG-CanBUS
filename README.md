@@ -1,9 +1,9 @@
 # REB3-Blanchard-AOG-CanBUS
  catch  information from REB3  sprayer controler to paint the AOG map
  
-  very bad  code  
+  very bad  code  ( sorry in advance )
   modification  of  code  https://github.com/mtz8302/AOG_SectionControl_ESP32
- adding can  function  ( request  librairie : https://github.com/autowp/arduino-mcp2515 ) 
+ adding CAN  function  ( request  librairie : https://github.com/autowp/arduino-mcp2515 ) 
   
   
   
@@ -34,11 +34,10 @@ first attempt to read the CAN bus
   # REB3-Blanchard-AOG-CanBUS
 Recuperation  des information du REB3  controleur du pulverisateur pour peindre la carte dans AgopenGPS
  
-  very bad  code  
-  modification  of  code  https://github.com/mtz8302/AOG_SectionControl_ESP32
- adding can  function  ( request  librairie : https://github.com/autowp/arduino-mcp2515 ) 
-  
-  
+ programme assez pourri (desole  d'avance )  
+  inspiration du  code  https://github.com/mtz8302/AOG_SectionControl_ESP32
+ Ajout  d'une fonction CAN  bus ( besoin de la librairie : https://github.com/autowp/arduino-mcp2515 ) 
+    
   
   video  available  here :
   https://youtu.be/h_2Xe81FQ_0
